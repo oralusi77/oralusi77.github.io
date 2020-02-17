@@ -1,0 +1,23 @@
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: BROWN;
+    color: white;
+    text-align: center;
+}
+
+a {
+    color: sandybrown;
+}
+
+HEADER{
+    color: red;
+}
+P{
+    color: purple;
+}
+h1{
+    color: aqua;
+}
